@@ -76,7 +76,7 @@
         "helmet": "^3.6.1",
         "jest-cli": "^22.0.0",
         "jest": "^22.0.0",
-        "loopback": "^3.8.0",
+        "loopback": "^3.22.2",
         "loopback-boot": "^2.24.1",
         "loopback-component-explorer": "^6.0.0",
         "loopback-datasource-juggler": "^3.9.1",
